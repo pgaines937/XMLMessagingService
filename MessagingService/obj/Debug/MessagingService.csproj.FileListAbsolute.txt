@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\MessagingService\MessagingService\bin\MessagingService.dll.config
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\MessagingService\MessagingService\bin\MessagingService.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\MessagingService\MessagingService\bin\MessagingService.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\MessagingService\MessagingService\obj\Debug\MessagingService.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\MessagingService\MessagingService\obj\Debug\MessagingService.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\MessagingService\MessagingService\obj\Debug\MessagingService.csprojResolveAssemblyReference.cache
