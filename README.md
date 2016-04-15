@@ -8,9 +8,9 @@ Ensure the following are loaded in Visual Studio 2015:
 
 Service Operations: 
 
-Operation 1: sendMsg: It allows the client to send a string message to the messaging service, and the message will be stored in the database (XML file) with senderID, receiverID, and a time stamp.
-Inputs: string senderID, string receiverID, string timeStamp, string msg
-Output: void
+* Operation 1: sendMsg: It allows the client to send a string message to the messaging service, and the message will be stored in the database (XML file) with senderID, receiverID, and a time stamp.
+** Inputs: string senderID, string receiverID, string timeStamp, string msg
+** Output: void
 Operation 2: receiveMsg: It allows the client to receive all the messages send to the receiverID.
 Inputs: string receiverID
 Output: string[] an array of messages, with each element containing the related information: senderID, sending time, and message.
