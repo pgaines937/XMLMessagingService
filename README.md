@@ -9,7 +9,7 @@ Ensure the following are loaded in Visual Studio 2015:
 
 Run MsgApp first, and MessagingService second (view in browser).
 
-* MessagingService: A WSDL service that can buffer messages before the receivers fetch the messages. The messages are saved in an XML file within the service.
+MessagingService: A WSDL service that can buffer messages before the receivers fetch the messages. The messages are saved in an XML file within the service.
 
 Service Operations: 
 
@@ -23,6 +23,6 @@ Service Operations:
 * Inputs: string senderID, string receiverID
 * Output: int count, indicating how many messages are deleted.
 
-* MsgApp: Develop a Web Site application (client) in ASP .Net that can send messages to the Messaging service and receive messages from the service.
+MsgApp: An ASP .NET Web Site application (client) that can send messages to the Messaging service and receive messages from the service.
 
 MsgApp demonstrates data caching for the received message. The message is buffered for 20 seconds. However, if the sender deletes the message, the cache must be removed.
